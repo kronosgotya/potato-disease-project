@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI
+*.log
+
+# Node / React
+node_modules/
+build/
+dist/
+.cache/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
